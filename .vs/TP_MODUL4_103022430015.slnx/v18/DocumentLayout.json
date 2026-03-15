@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Downloads\\TP_MODUL4_103022430015\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCC4C01-EDE5-4935-B55B-B82C32E9D5A5}|TP_MODUL4_103022430015\\TP_MODUL4_103022430015.csproj|e:\\downloads\\tp_modul4_103022430015\\tp_modul4_103022430015\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCC4C01-EDE5-4935-B55B-B82C32E9D5A5}|TP_MODUL4_103022430015\\TP_MODUL4_103022430015.csproj|solutionrelative:tp_modul4_103022430015\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Downloads\\TP_MODUL4_103022430015\\TP_MODUL4_103022430015\\Program.cs",
+              "RelativeDocumentMoniker": "TP_MODUL4_103022430015\\Program.cs",
+              "ToolTip": "E:\\Downloads\\TP_MODUL4_103022430015\\TP_MODUL4_103022430015\\Program.cs",
+              "RelativeToolTip": "TP_MODUL4_103022430015\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T21:53:16.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
