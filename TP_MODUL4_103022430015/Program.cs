@@ -27,6 +27,34 @@ namespace TP_MODUL4_103022430015
         }
     }
 
+    public class DoorMachine
+    {
+        private string currentState = "Terkunci";
+
+        public DoorMachine()
+        {
+            Console.WriteLine("Pintu terkunci");
+        }
+
+        public void BukaPintu()
+        {
+            if (currentState == "Terkunci")
+            {
+                currentState = "Terbuka";
+                Console.WriteLine("Pintu tidak terkunci");
+            }
+        }
+
+        public void KunciPintu()
+        {
+            if (currentState == "Terbuka")
+            {
+                currentState = "Terkunci";
+                Console.WriteLine("Pintu terkunci");
+            }
+        }
+    }
+
     class Program
     {
         static void Main(string[] args)
@@ -36,6 +64,10 @@ namespace TP_MODUL4_103022430015
             string input = Console.ReadLine();
 
             Console.WriteLine("Kode pos: " + kp.getKodePos(input));
+
+            DoorMachine pintu = new DoorMachine();
+            pintu.BukaPintu();
+            pintu.KunciPintu();
         }
     }
 }
